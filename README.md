@@ -1,9 +1,9 @@
 ### Hi there, I am Prathmesh Awate 👋
+I am a Web Developer with good experience working with React, Node.js, and Firebase.
 
-<!--
-- 🔭 I’m currently working on Vision and Kaza
-- 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with Natural Language Processing
--->
+🔭 I’m currently working on Vision, an AI tool that will help visually impaired students with their examinations and Kaza which is a platform to discover street food around you.
+🌱 I’m currently learning Machine Learning
+🤔 I’m looking for help with Natural Language Processing
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathmesh-awate)](https://github.com/prathmesh-awate/github-readme-stats)
