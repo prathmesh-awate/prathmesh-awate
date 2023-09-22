@@ -6,4 +6,4 @@ I am a Web Developer with good experience working with React, Node.js, and Fireb
 🤔 I’m looking for help with Natural Language Processing<br/><br/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathmesh-awate)](https://github.com/prathmesh-awate/github-readme-stats)
+
